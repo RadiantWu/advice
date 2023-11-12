@@ -46,7 +46,7 @@ __Table of Contents__
    * [Misc](#misc-1)
    * [List of lists](#list-of-lists-1)
 
-## Applications
+## applications
 Note: A lot of the advice might be geared towards PhD, but people applying to MS programs, RAs, short-term interns etc. might find a lot of it still very helpful.
 
 ### General
