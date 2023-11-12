@@ -6,7 +6,7 @@ If you come across posts/tweet-threads/blogs/podcasts that belong here, feel fre
 
 __Table of Contents__
 * [Applications](#applications)
-     * [General](#general)
+   * [General](#general)
       * [MS Specific](#ms-specific)
       * [Applying to Predoctoral Programs](#applying-to-predoctoral-programs)
       * [ToDo PhD or Not / What doing a PhD Entails](#todo-phd-or-not--what-doing-a-phd-entails)
