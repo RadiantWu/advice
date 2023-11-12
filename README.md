@@ -5,7 +5,7 @@ A repository of links with advice related to grad school applications, research,
 If you come across posts/tweet-threads/blogs/podcasts that belong here, feel free to create a pull request.
 
 __Table of Contents__
-* [Applications](#Application)
+* [Applications](#applications)
    * [General](#general)
       * [MS Specific](#ms-specific)
       * [Applying to Predoctoral Programs](#applying-to-predoctoral-programs)
@@ -46,7 +46,7 @@ __Table of Contents__
    * [Misc](#misc-1)
    * [List of lists](#list-of-lists-1)
 
-## applications
+## Applications
 Note: A lot of the advice might be geared towards PhD, but people applying to MS programs, RAs, short-term interns etc. might find a lot of it still very helpful.
 
 ### General
